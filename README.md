@@ -13,10 +13,10 @@ For example I found it easier to create a employee pay day calendar with Python 
 ###### The pay day calendar generated with Python
 
 ## Overview
-1.	Subclass The Python HTMLCalendar Module
-2.	Pay days data
-3.	Generate the webpage
-4.	Presentation
+1.	[Subclass The Python HTMLCalendar Module](https://garthhumphreys.com/2013/01/23/how-to-use-python-to-create-a-beautiful-web-calendar#subclass)
+2.	[Pay days data]](https://garthhumphreys.com/2013/01/23/how-to-use-python-to-create-a-beautiful-web-calendar#paydays-data)
+3.	[Generate the webpage]](https://garthhumphreys.com/2013/01/23/how-to-use-python-to-create-a-beautiful-web-calendar#generate-webpage)
+4.	[Presentation]](https://garthhumphreys.com/2013/01/23/how-to-use-python-to-create-a-beautiful-web-calendar#presentation)
 5.	[Download Files/Code](https://github.com/garthhumphreys/How-to-Use-Python-To-Create-A-Beautiful-Web-Calendar/archive/master.zip)
 
 :sparkles: :camel: :boom:
