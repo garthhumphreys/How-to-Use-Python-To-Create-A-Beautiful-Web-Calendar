@@ -1,0 +1,111 @@
+/** 	Readme
+ *		@Project:		CIG Payday Calendar
+ *		@Author:		Garth Humphreys
+ *		@Description:	Yearly CIG Payday Calendar
+ *		@Created:		01/18/2013
+ *		@Version:		1.0.1
+ *		@Docs:			www.gov.ky
+ *
+ */
+
+html, body {
+	margin: 0;
+	padding: 0
+}
+
+body {
+	font: .8em/1.5em "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	padding: 0;
+	margin: 0;
+	background-color: #eee;
+	color: #333;
+}
+
+#wrapper {
+	width: 860px;
+	margin: 0 auto;
+	background-color: #fff;
+}
+
+#calendar {
+	margin: 20px 0;
+}
+
+#calendar-year {
+	
+}
+
+#calendar-year .year {
+	font-size: 3.3em;
+	padding: 1em;
+	text-align: center;
+}
+
+.month-row {
+	margin-bottom: 20px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.calendar-month {
+	padding: 16px;
+}
+
+#month {
+	border-collapse: collapse;
+	margin-left: 2em;
+}
+
+#month th, #month td {
+	border: 1px solid #000;
+}
+
+#month thead {
+	background-color: #9c9;
+}
+
+#month td {
+	width: 7em;
+	height: 7em;
+	padding: .2em;
+	vertical-align: top;
+	overflow: auto;
+}
+
+table.year {
+	
+}
+
+table.month {
+	
+}
+
+th.month {
+	font-weight: bold;
+	font-size: 1.3em;
+}
+
+th {
+	font-weight: normal;
+}
+
+tr.weekheader {
+	font-size: .85em;
+}
+
+tr.week {
+	
+}
+
+td.day {
+	margin: 0;
+	padding: .5em;
+	text-align: center;
+}
+
+.payday {
+	background-color: #fefdb6;
+	color: #e38d1f;
+	border-radius: 8px;
+	font-weight: bold;
+}
